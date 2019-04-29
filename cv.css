@@ -27,6 +27,7 @@ body{
     grid-row: 1 / 3;
     background-color: black;
     color: white;
+    text-transform: capitalize;
   }
   .three {
     grid-column: 1;
