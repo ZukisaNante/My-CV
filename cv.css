@@ -7,7 +7,7 @@ body{
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
     grid-auto-rows: minmax(100px, auto);
-    background-color: olive;
+    background-color: #2196F3;
     text-align: center;
     padding: 20px 0;
 
