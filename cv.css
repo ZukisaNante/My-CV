@@ -48,7 +48,7 @@ body{
   .six {
     grid-column: 3;
     grid-row: 4;
-    background-color: red;
+    background-color: cornflowerblue;
   }
   #picture{
       width: 100%;
