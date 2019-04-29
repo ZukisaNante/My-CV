@@ -38,6 +38,7 @@ body{
     grid-column: 3;
     grid-row: 3;
     background-color: brown;
+    text-align: left;
   }
   .five {
     grid-column: 2;
