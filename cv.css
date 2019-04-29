@@ -1,5 +1,5 @@
 body{
-    background-color:green;
+    background-color:#2196F3
     font-family: 'Times New Roman', Times, serif,
 }
 .wrapper {
@@ -32,7 +32,7 @@ body{
   .three {
     grid-column: 1;
     grid-row: 2 / 5;
-    background-color:#2196F3;
+    background-color: blue;
   }
   .four {
     grid-column: 3;
