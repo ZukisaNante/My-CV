@@ -94,3 +94,69 @@ img {
     border-radius: 30%;
     width: 200px;
 }
+
+
+/* personal_information */
+
+.personal_information {
+    background-color: lightseagreen;
+    color: white;
+}
+
+
+/* info */
+
+.info {
+    background-color: whitesmoke;
+    color: black;
+    padding-top: 10px;
+}
+
+
+/* space */
+
+.info::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+/* work_experience */
+
+.work_experience {
+    background-color: lightseagreen;
+    color: white;
+}
+
+
+/* education */
+
+.education {
+    background-color: lightseagreen;
+    color: white;
+}
+
+
+/* pc_skills */
+
+.pc_skills {
+    background-color: lightseagreen;
+    color: white;
+}
+
+
+/* references */
+
+.references {
+    background-color: lightseagreen;
+    color: white;
+}
+
+
+/* footer */
+
+.footer {
+    background-color: lightseagreen;
+    color: white;
+}
